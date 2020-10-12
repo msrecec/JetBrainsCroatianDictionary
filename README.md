@@ -1,4 +1,4 @@
-# Croatian Dictionary - Net Beans products
+# Croatian Dictionary - Jet Brains products
 
 ## Project setup
 ```
